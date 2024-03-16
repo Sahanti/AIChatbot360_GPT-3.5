@@ -1,0 +1,1 @@
+AIChatbot360_GPT-3.5: A project showcasing interactive conversations with AI chatbots. Utilizes GPT-3.5 for tasks like math problem-solving, document summarization, and themed dialogues. Explores the potential of AI in understanding and interacting with diverse digital content formats.
